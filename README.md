@@ -4,4 +4,4 @@ Ce projet analyse les caractéristiques morphologiques des insectes.
 - donnees.csv : données brutes
 - rapport.txt : résultats
 ## Auteur
-Nesrinee M. — Master 2 Biologie
+Nesrinee M. — Master 1 Biologie
