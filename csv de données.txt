@@ -1,0 +1,4 @@
+Nom,  Poids,  Longueur
+Fourmi, 0.003,  0.5
+Abeille, 0.1,   1.2
+Papillon, 0.2,  2.5
